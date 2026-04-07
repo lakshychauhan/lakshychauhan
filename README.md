@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Student  
+🎓 B.Tech Artificial Intelligence Student  
 💻 Passionate about Web Development & AI Projects  
 🎬 Interested in Cinematics & Creative Video Editing  
 🧠 Currently learning Data Structures & Development  
