@@ -71,15 +71,7 @@
 
 ---
 
-## 💻 DSA / LeetCode Stats
 
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap"/>
-
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
