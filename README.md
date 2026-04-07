@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshy Chauhan</h1>
-<h3 align="center">B.Tech CSE Student | Developer | Cinematic Creator 🎬 | AI Enthusiast</h3>
+<h3 align="center">B.Tech CSE (AI) Student | Developer | Cinematic Creator 🎬 | AI Enthusiast</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 🎓 B.Tech Artificial Intelligence Student  
 💻 Passionate about Web Development & AI Projects  
 🎬 Interested in Cinematics & Creative Video Editing  
-🧠 Currently learning Data Structures & Development  
+🧠 Currently learning Data Structures & Algorithms  
 🚀 Building AI powered projects  
 🌱 Always learning new technologies  
 
@@ -17,6 +17,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/lakshychauhan/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -40,14 +41,13 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,c)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c"/>
 
 ### Frameworks & Tools
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,git,github,vscode)
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,github,vscode"/>
 
 ### Currently Learning
-![DSA](https://leetcode.com/u/NrAZ0sjPQD/)
-
+<img src="https://skillicons.dev/icons?i=java,python"/>
 
 ---
 
@@ -65,21 +65,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 DSA / LeetCode Stats
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lakshychauhan&theme=tokyonight&row=1&column=6"/>
+<img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap"/>
 
 </p>
 
 ---
 
-## 💻 LeetCode Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://leetcode.com/u/NrAZ0sjPQD/"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lakshychauhan&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
@@ -114,7 +114,7 @@
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=lakshychauhan&label=Profile%20views&color=0e75b6&style=flat"/>
 
 ---
 
