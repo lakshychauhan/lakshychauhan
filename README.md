@@ -47,7 +47,13 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,github,vscode"/>
 
 ### Currently Learning
-<img src="https://skillicons.dev/icons?i=java,python"/>
+
+🧠 Data Structures & Algorithms (DSA)  
+💻 Problem Solving on LeetCode  
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap"/>
+</p>
 
 ---
 
