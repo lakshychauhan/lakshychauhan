@@ -1,32 +1,37 @@
+<!-- ================= HEADER BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lakshy%20Chauhan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Lakshy Chauhan</h1>
-<h3 align="center">B.Tech CSE (AI) Student | Developer | Cinematic Creator 🎬 | AI Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Learner;DSA+Enthusiast;Cinematic+Creator"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 🎓 B.Tech Artificial Intelligence Student  
-💻 Passionate about Web Development & AI Projects  
-🎬 Interested in Cinematics & Creative Video Editing  
-🧠 Currently learning Data Structures & Algorithms  
-🚀 Building AI powered projects  
-🌱 Always learning new technologies  
+💻 Full Stack Web Development Enthusiast  
+🧠 Currently focusing on Data Structures & Algorithms  
+🎬 Cinematic Creator & Video Editor  
+🚀 Building real-world projects for placements  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/lakshychauhan/" target="blank">
+<a href="https://www.linkedin.com/in/lakshychauhan/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/lakshychauhan" target="blank">
+<a href="https://github.com/lakshychauhan">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.instagram.com/lakshychauhan_/" target="blank">
+<a href="https://www.instagram.com/lakshychauhan_/">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
@@ -40,16 +45,13 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mongodb,git,github,vscode"/>
+</p>
 
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,github,vscode"/>
+---
 
-### Currently Learning
-
-🧠 Data Structures & Algorithms (DSA)  
-💻 Problem Solving on LeetCode  
+## 🧠 Currently Learning
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap"/>
@@ -71,48 +73,66 @@
 
 ---
 
-
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=lakshychauhan&theme=tokyonight&row=1&column=6"/>
-
 </p>
+
+---
+
+## 💻 Competitive Programming
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Developer Portfolio
+🔹 Personal portfolio with modern UI  
+🔹 Responsive design & animations  
+🔹 GitHub & LeetCode integration  
+
+---
+
+### ⚙️ Full Stack CRUD App
+🔹 Authentication system  
+🔹 REST APIs  
+🔹 Dashboard & data management  
+
+---
+
+### 🎉 Event Management System
+🔹 Event registration system  
+🔹 Admin dashboard  
+🔹 MongoDB backend  
 
 ---
 
 ## 🔥 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshychauhan&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-## ✨ Featured Projects
+## 👀 Profile Views
 
-🔹 AI Resume Analyzer  
-🔹 Event Management Website  
-🔹 Portfolio Website  
-🔹 Prompt Based Video Editing Tool  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lakshychauhan&label=Visitors&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
 💡 I turn coffee ☕ into code  
-🎬 I love mixing tech with creativity  
+🎬 I blend creativity with technology  
 🌙 Night coder  
-
----
-
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=lakshychauhan&label=Profile%20views&color=0e75b6&style=flat"/>
 
 ---
 
