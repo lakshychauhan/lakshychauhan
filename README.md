@@ -1,6 +1,5 @@
 <!-- ================= HEADER BANNER ================= -->
 <p align="center">
-  <!-- Replaced the auto green with a stunning, deep cinematic cyberpunk gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=LAKSHY%20CHAUHAN&fontSize=50&fontColor=00f7ff&animation=twinkle" width="100%" />
 </p>
 
@@ -9,7 +8,6 @@
 </p>
 
 <p align="center">
-  <!-- Replaced the mismatched lime green badges with unified matte cyberpunk colors -->
   <a href="https://www.linkedin.com/in/lakshychauhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/lakshychauhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/lakshychauhan_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -30,7 +28,6 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Icon palette matched to dark/neon theme -->
       <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mongodb,git,github,vscode" width="100%" />
     </td>
   </tr>
@@ -79,7 +76,6 @@
 ## 🧠 THE DSA GRIND ARSENAL
 
 <p align="center">
-  <!-- Switched LeetCode layout to dark theme with high-contrast accent lines -->
   <img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap" width="55%" alt="LeetCode Heatmap" />
 </p>
 
@@ -88,13 +84,13 @@
 ## 📊 PERFORMANCE ENGINE & METRICS
 
 <p align="center">
-  <!-- Switched stats cards to the 'cyberpunk' theme to exactly match your banner colors -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshychauhan&show_icons=true&theme=cyberpunk&hide_border=true" width="44%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshychauhan&theme=cyberpunk&hide_border=true" width="44%" />
+  <!-- Fixed image URLs using reliable themes + exact color matching parameters for dark slate/cyan -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshychauhan&show_icons=true&theme=tokyonight&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&bg_color=0f2027&hide_border=true" width="44%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshychauhan&theme=tokyonight&theme=tokyonight&ring=00f7ff&fire=00f7ff&text=ffffff&background=0f2027&hide_border=true" width="44%" />
 </p>
 <p align="center">
-  <!-- Top languages matched to the dark cyberpunk layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshychauhan&layout=compact&theme=cyberpunk&hide_border=true" width="55%" />
+  <!-- Fixed Top Langs API URL with strict color fallbacks -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshychauhan&layout=compact&theme=tokyonight&title_color=00f7ff&text_color=ffffff&bg_color=0f2027&hide_border=true" width="55%" />
 </p>
 
 ---
@@ -102,8 +98,8 @@
 ## 🔥 SYSTEM ACTIVITY GRAPH
 
 <p align="center">
-  <!-- Set graph theme to a matching neon cyberpunk spectrum -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshychauhan&theme=cyberpunk&no-background=true" width="60%" />
+  <!-- Replaced the broken/pink theme with a flawless dark/cyan matching graph layout -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshychauhan&theme=react-dark&custom_title=Activity%20Stream" width="60%" />
 </p>
 
 ---
@@ -112,6 +108,5 @@
   <code>🎬 Code by day. Edit by night. Ship always.</code>
   <br />
   <br />
-  <!-- Switched visitor badge to a clean neon-cyan flat outline style -->
   <img src="https://komarev.com/ghpvc/?username=lakshychauhan&label=SYSTEM+ACCESSES&color=00F7FF&style=flat-square" />
 </p>
