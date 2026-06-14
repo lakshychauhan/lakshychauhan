@@ -1,185 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:0a192f,100:0d0d0d&height=180&section=header&text=Lakshy%20Chauhan&fontSize=48&fontColor=64ffda&fontAlignY=55&desc=AI%20Developer%20%7C%20Full%20Stack%20%7C%20DSA&descSize=16&descFontColor=8892b0&descAlignY=75&animation=blinkingFade"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,30:EC4899,60:06B6D4,100:10B981&height=250&section=header&text=Lakshy%20Chauhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20%E2%9C%A6%20Full%20Stack%20%E2%9C%A6%20DSA%20%E2%9C%A6%20Cinematic%20Creator&descFontColor=f0f0f0&descSize=18&descAlignY=65"/>
 
 </div>
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  > initializing developer profile...                            │
-│  > loading: AI · Full Stack · DSA · Cinematic Creation          │
-│  > status: BUILDING FOR PLACEMENTS  ✦                           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=64FFDA&center=true&vCenter=true&width=520&lines=const+me+%3D+new+AIDeveloper()%3B;me.focus(%22Full+Stack+%2B+DSA%22)%3B;me.build(%22real+world+projects%22)%3B;me.goal+%3D+%22placement+ready%22%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%A7%A0+Building+AI-Powered+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Products;%F0%9F%8E%AC+Where+Code+Meets+Creativity;%F0%9F%94%A5+DSA+Grinder+%7C+Night+Coder" alt="Typing SVG" />
 </div>
 
 <br/>
 
----
-
-## ◈ WHO AM I
-
-<table>
-<tr>
-<td width="55%">
-
-```yaml
-name:       Lakshy Chauhan
-degree:     B.Tech — Artificial Intelligence
-focus:      Full Stack Development
-training:   Data Structures & Algorithms
-side_quest: Cinematic Creator & Video Editor
-mission:    Build → Ship → Get Placed
-```
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lakshychauhan&show_icons=true&theme=transparent&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&border_color=233554&hide_border=false&count_private=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ CURRENT STACK
-
 <div align="center">
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & DB**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshychauhan/)
+[![GitHub](https://img.shields.io/badge/-GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshychauhan)
+[![Instagram](https://img.shields.io/badge/-Instagram-06B6D4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lakshychauhan_/)
+[![Gmail](https://img.shields.io/badge/-Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshychauhan076@gmail.com)
 
 </div>
 
 ---
 
-## ◈ FEATURED PROJECTS
+## 🌌 &nbsp; About Me
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
-**`[ 01 ]` Developer Portfolio**
-
+```javascript
+const lakshy = {
+  🎓  degree   : "B.Tech — Artificial Intelligence",
+  💻  craft    : ["Full Stack Dev", "AI Apps", "DSA"],
+  🎬  hidden   : "Cinematic Creator & Video Editor",
+  ⚡  superpower: "Turning ☕ into working code",
+  🌙  hours    : "Most productive after midnight",
+  🎯  goal     : "Placement-ready & shipping real products",
+  📍  location : "India 🇮🇳",
+};
 ```
-⬡ Modern UI with animations
-⬡ Responsive across devices
-⬡ GitHub & LeetCode widgets
-```
-*Stack: HTML · CSS · JS*
 
-</td>
-<td width="33%" valign="top">
-
-**`[ 02 ]` Full Stack CRUD App**
-
-```
-⬡ Auth system with sessions
-⬡ REST API architecture
-⬡ Admin dashboard & DB mgmt
-```
-*Stack: Node · MongoDB · React*
-
-</td>
-<td width="33%" valign="top">
-
-**`[ 03 ]` Event Management System**
-
-```
-⬡ Event registration flows
-⬡ Admin control panel
-⬡ MongoDB backend
-```
-*Stack: Node · MongoDB · JS*
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## ◈ DSA GRIND
+## 🛠️ &nbsp; Arsenal
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap" width="495"/>
+### 🔷 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🔷 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔷 Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔷 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## ◈ GITHUB METRICS
+## 🚀 &nbsp; Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshychauhan&theme=transparent&background=0d1117&border=233554&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideNums=ccd6f6&sideLabels=8892b0&dates=8892b0" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshychauhan&layout=compact&theme=transparent&title_color=64ffda&text_color=ccd6f6&border_color=233554" width="38%"/>
+| 🌐 Project | 💡 Highlights | 🛠 Stack |
+|---|---|---|
+| **Developer Portfolio** | Modern UI · Animations · LeetCode & GitHub Integration | `HTML` `CSS` `JS` |
+| **Full Stack CRUD App** | Auth System · REST APIs · Admin Dashboard | `React` `Node.js` `MongoDB` |
+| **Event Management System** | Registration Flows · Admin Panel · MongoDB Backend | `Node.js` `MongoDB` `JS` |
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshychauhan&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="90%"/>
-</div>
-
----
-
-## ◈ TROPHIES
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lakshychauhan&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 </div>
 
 ---
 
-## ◈ CONNECT
+## 🧠 &nbsp; DSA Grind — LeetCode Stats
 
 <div align="center">
+<img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap" width="500"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshychauhan/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshychauhan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lakshychauhan_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshychauhan076@gmail.com)
+---
 
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshychauhan&show_icons=true&theme=tokyonight&border_radius=12&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshychauhan&layout=compact&theme=tokyonight&border_radius=12" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshychauhan&theme=tokyonight&border_radius=12" width="60%"/>
+</div>
+
+---
+
+## 🔥 &nbsp; Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshychauhan&bg_color=1a1b27&color=A855F7&line=EC4899&point=06B6D4&area=true&hide_border=true&radius=8" width="95%"/>
+</div>
+
+---
+
+## 🏆 &nbsp; GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=lakshychauhan&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=6"/>
 </div>
 
 ---
 
 <div align="center">
 
-```
-/* turning caffeine into commits since day one */
-```
+### 🎬 I don't just build software — I craft experiences.
+*Code by day. Edit by night. Ship always.*
 
-![Visitors](https://komarev.com/ghpvc/?username=lakshychauhan&label=profile+views&color=64ffda&style=flat)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a192f,100:0d0d0d&height=100&section=footer"/>
+![Visitors](https://komarev.com/ghpvc/?username=lakshychauhan&label=Profile+Views&color=A855F7&style=for-the-badge)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,30:06B6D4,60:EC4899,100:8B5CF6&height=120&section=footer"/>
