@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,30:EC4899,60:06B6D4,100:10B981&height=250&section=header&text=Lakshy%20Chauhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20%E2%9C%A6%20Full%20Stack%20%E2%9C%A6%20DSA%20%E2%9C%A6%20Cinematic%20Creator&descFontColor=f0f0f0&descSize=18&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=220&section=header&text=Lakshy%20Chauhan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20%E2%9C%A6%20Full%20Stack%20%E2%9C%A6%20DSA%20%E2%9C%A6%20Cinematic%20Creator&descFontColor=ffffff&descSize=16&descAlignY=62"/>
 
 </div>
 
@@ -27,13 +27,13 @@
 
 ```javascript
 const lakshy = {
-  🎓  degree   : "B.Tech — Artificial Intelligence",
-  💻  craft    : ["Full Stack Dev", "AI Apps", "DSA"],
-  🎬  hidden   : "Cinematic Creator & Video Editor",
-  ⚡  superpower: "Turning ☕ into working code",
-  🌙  hours    : "Most productive after midnight",
-  🎯  goal     : "Placement-ready & shipping real products",
-  📍  location : "India 🇮🇳",
+  degree    : "B.Tech — Artificial Intelligence",
+  craft     : ["Full Stack Dev", "AI Apps", "DSA"],
+  hidden    : "Cinematic Creator & Video Editor",
+  superpower: "Turning ☕ into working code",
+  hours     : "Most productive after midnight",
+  goal      : "Placement-ready & shipping real products",
+  location  : "India 🇮🇳",
 };
 ```
 
@@ -131,4 +131,4 @@ const lakshy = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,30:06B6D4,60:EC4899,100:8B5CF6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:EC4899,100:8B5CF6&height=120&section=footer"/>
