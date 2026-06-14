@@ -38,9 +38,7 @@
 
 ## 🛠️ FEATURED SHOWCASE
 
-Rather than a basic list, here is a curated breakdown of what I build:
-
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <h3>🌐 Developer Portfolio</h3>
@@ -82,35 +80,31 @@ Rather than a basic list, here is a curated breakdown of what I build:
 ## 🧠 THE DSA GRIND ARSENAL
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap" width="100%" alt="LeetCode Heatmap Blueprint" />
+  <!-- Scaled down to 75% width to look cleaner and less stretched -->
+  <img src="https://leetcard.jacoblin.cool/NrAZ0sjPQD?theme=dark&font=baloo&ext=heatmap" width="75%" alt="LeetCode Heatmap" />
 </p>
 
 ---
 
 ## 📊 PERFORMANCE ENGINE & METRICS
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lakshychauhan&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshychauhan&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshychauhan&layout=compact&theme=tokyonight&hide_border=true" width="90%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Displayed side-by-side at 47% width each to prevent giant vertical stack -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshychauhan&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshychauhan&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+<p align="center">
+  <!-- Top languages neatly fits right under the primary cards -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshychauhan&layout=compact&theme=tokyonight&hide_border=true" width="75%" />
+</p>
 
 ---
 
 ## 🔥 SYSTEM ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshychauhan&theme=tokyo-night&no-background=true" width="100%" />
+  <!-- Sized down from full-screen width to a structured 80% center block -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshychauhan&theme=tokyo-night&no-background=true" width="80%" />
 </p>
 
 ---
